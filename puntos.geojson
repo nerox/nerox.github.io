@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 6, "Nombre": "KFC" }, "geometry": { "type": "Point", "coordinates": [ -84.081636534778283, 9.934287277679699 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Nombre": "Burger King" }, "geometry": { "type": "Point", "coordinates": [ -84.081819811373606, 9.93201473336509 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Nombre": "Campero" }, "geometry": { "type": "Point", "coordinates": [ -84.08008407420607, 9.932439509202803 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Nombre": "tacoBell" }, "geometry": { "type": "Point", "coordinates": [ -84.078305213133731, 9.933034194449157 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Nombre": "Mc Donald" }, "geometry": { "type": "Point", "coordinates": [ -84.079092224396035, 9.93418108437173 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Nombre": "Pizza Hut" }, "geometry": { "type": "Point", "coordinates": [ -84.079695959063017, 9.934945675419709 ] } }
+]
+}
